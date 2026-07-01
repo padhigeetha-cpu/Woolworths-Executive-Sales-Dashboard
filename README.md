@@ -1,2 +1,3 @@
 # Woolworths-Executive-Sales-Dashboard
-Excel project using Woolworths transaction data to analyze sales, product demand, and customer behavior. Built an executive dashboard with KPIs and a 10x10 product correlation matrix to identify cross-sell opportunities and buying patterns. Used pivot tables, visualization, and statistical analysis to generate actionable retail insights.
+## Project Objective
+To analyze Woolworths transaction data and uncover genuine product purchase relationships — moving beyond standard revenue/category reporting to identify which products are actually bought together — so that merchandising and marketing decisions (bundling, cross-selling, store layout, promotions) can be based on statistical evidence rather than assumption.
