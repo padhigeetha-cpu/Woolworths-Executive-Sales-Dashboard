@@ -21,7 +21,7 @@ To analyze Woolworths transaction data and uncover genuine product purchase rela
 
 ## Dashboard 
 - <a href="https://github.com/padhigeetha-cpu/Woolworths-Executive-Sales-Dashboard/blob/main/woolworths%20correlation%20dashboard.png"> view Dashboard </a>
-- <a href="https://github.com/padhigeetha-cpu/Woolworths-Executive-Sales-Dashboard/blob/main/woolworths%20product%20correlation.png"> view </a>
+- <a href="https://github.com/padhigeetha-cpu/Woolworths-Executive-Sales-Dashboard/blob/main/woolworths%20product%20correlation.png"> view product correlation </a>
 
 ## Solution Approach
 Built an executive sales dashboard in Excel combined with a statistical correlation analysis of transaction-level order data:
